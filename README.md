@@ -33,28 +33,29 @@ The repository has the following structure:
 
 ## Program Descriptions
 
-1. **files/create_write.asm**: This program demonstrates file creation and writing operations in Assembly language.
+1. [**files/create_write.asm**](src/files/create_write.asm): This program demonstrates file creation and writing operations in Assembly language.
 
-2. **funcs/inherit.asm**: This program illustrates function inheritance in Assembly language.
+2. [**funcs/inherit.asm**](src/funcs/inherit.asm): This program illustrates function inheritance in Assembly language.
 
-3. **funcs/local_vars.asm**: This program showcases the usage of local variables in functions using Assembly language.
+3. [**funcs/local_vars.asm**](src/funcs/local_vars.asm): This program showcases the usage of local variables in functions using Assembly language.
 
-4. **funcs/void.asm**: This program demonstrates the implementation of functions with void return type in Assembly language.
+4. [**funcs/void.asm**](src/funcs/void.asm): This program demonstrates the implementation of functions with void return type in Assembly language.
 
-5. **hello/hello.asm**: A simple "Hello, World!" program written in Assembly language.
+5. [**hello/hello.asm**](src/hello/hello.asm): A simple "Hello, World!" program written in Assembly language.
 
-6. **io/in_out.asm**: This program demonstrates input and output operations in Assembly language.
+6. [**io/in_out.asm**](src/io/in_out.asm): This program demonstrates input and output operations in Assembly language.
 
-7. **modules/hello.asm**: This program contains a reusable module for printing "Hello, World!".
+7. [**modules/hello.asm**](src/modules/hello.asm): This program contains a reusable module for printing "Hello, World!".
 
-8. **modules/print.asm**: This program is a reusable module for generic string printing.
+8. [**modules/print.asm**](src/modules/print.asm): This program is a reusable module for generic string printing.
 
-9. **strings/atoi.asm**: An implementation of the atoi (ASCII to integer) function in Assembly language.
+9. [**strings/atoi.asm**](src/strings/atoi.asm): An implementation of the atoi (ASCII to integer) function in Assembly language.
 
-10. **strings/itoa.asm**: An implementation of the itoa (integer to ASCII) function in Assembly language.
+10. [**strings/itoa.asm**](src/strings/itoa.asm): An implementation of the itoa (integer to ASCII) function in Assembly language.
 
-11. **strings/removeNL.asm**: This program removes newline characters from a string in Assembly language.
+11. [**strings/removeNL.asm**](src/strings/removeNL.asm): This program removes newline characters from a string in Assembly language.
 
+Now, each item title is a clickable link that will take you directly to the respective program's source code for better navigation.
 ## Usage
 
 To assemble and run any of these programs, make sure you have NASM installed on your Linux i386 machine. Then, follow these steps:
